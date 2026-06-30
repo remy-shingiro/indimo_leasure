@@ -139,8 +139,8 @@ const Terms = () => {
                     ? 'Questions about the Terms?'
                     : 'Ufite ibibazo kuri aya mabwiriza?'}
                 </p>
-                <a href="mailto:info@kigaliswimshop.com" className="px-6 py-2 bg-white text-sky-600 font-bold rounded-lg shadow-sm hover:bg-sky-50 transition-colors">
-                  info@kigaliswimshop.com
+                <a href="mailto:director@kigaliswimshop.online" className="px-6 py-2 bg-white text-sky-600 font-bold rounded-lg shadow-sm hover:bg-sky-50 transition-colors">
+                  director@kigaliswimshop.online
                 </a>
               </div>
             </section>

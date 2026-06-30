@@ -6,4 +6,4 @@ export const WHATSAPP_PHONE = "250784154697";
 // Use the format with + for direct phone calls
 export const CALL_PHONE = "+250784154697"; 
 
-export const BUSINESS_EMAIL = "kigaliswimshop@gmail.com";
+export const BUSINESS_EMAIL = "director@kigaliswimshop.online";
